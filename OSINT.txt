@@ -1,1 +1,1 @@
-
+These are my personal notes and tools gathered from my journey learning OSINT. I hope they help streamline your process, save you time, and keep you motivated along the way.
