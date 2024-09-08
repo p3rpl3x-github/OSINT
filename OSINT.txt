@@ -1,1 +1,14 @@
-These are my personal notes and tools gathered from my journey learning OSINT. I hope they help streamline your process, save you time, and keep you motivated along the way.
+These are my personal notes and tools collected throughout my journey in OSINT. I hope they help streamline your process, save time, and keep you motivated.
+
+From using facial recognition search engines to exploring public databases, many individuals on the web remain vulnerable. Security questions like your pet's name or high school are often easily accessible on social media or through social engineering.
+
+Most tools can be found here: OSINT Tools Collection
+
+Finding People:
+Reverse Username Lookup: instantusername.com
+Search by Name, Email, Address, or Phone: truepeoplesearch.com
+Facial Recognition Search Engine: facecheck.id
+Phone Info Reverse Lookup: martinvigo.com
+Images:
+Image Data Extractor: 29a.ch
+Image Search Engines: Yandex, Google Images, Bing Images, Yahoo Images
